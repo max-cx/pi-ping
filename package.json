@@ -1,0 +1,27 @@
+{
+  "name": "pi-ping",
+  "version": "1.1.1",
+  "description": "Audible completion ping for Pi: plays a bundled radar ping when the agent settles and waits for input.",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "notification",
+    "sound",
+    "completion"
+  ],
+  "license": "MIT",
+  "author": "mleonov",
+  "files": [
+    "extensions",
+    "skills",
+    "assets",
+    "LICENSES",
+    "README.md",
+    "CHANGELOG.md",
+    "CREDITS.md",
+    "LICENSE"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  }
+}
